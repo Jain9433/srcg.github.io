@@ -1,0 +1,104 @@
+header{
+	background: black;
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+}
+a{
+	font-family: sans-serif;
+	color: black;
+	text-decoration: none;
+	padding: 1.5px;
+}
+.container{
+	align-items: center;
+	color: white;
+	display: grid;
+	grid-template-columns: 20vw,20vw,20vw;
+	grid-template-rows: 40vh;
+	justify-content: center;
+	text-align: center;
+}
+.card{
+	background: indianred;
+	margin: 5px;
+	margin: 20px 10px auto 10px;
+}
+.gradient{
+	background: linear-gradient(45deg,red);
+	height: 80%;
+}
+.section{
+	background: black;
+}
+h1{
+	color: gold;
+}
+h3{
+ color: white;
+}
+.red{
+	background: red;
+}
+h2{
+	color: black;
+}
+.srgc{
+	color: red;
+}
+.text{
+	color: black;
+	font-size: 19px;
+}
+.m{
+	color: white;
+}
+.news{
+	background: black;
+}
+.head{
+	color: white;
+}
+.change{
+	color: red;
+}
+.line hr{
+	height: 3px;
+	color: gold;
+
+}
+p{
+	color: white;
+}
+.links h2{
+	color: red;
+}
+.adm h2{
+	color: red;
+}
+.contact h2{
+	color: red;
+}
+.footer{
+	background: dimgray;
+}
+.m a{
+	color: white;
+}
+.bio p{
+	color: black;
+}
+.line hr{
+	color: white;
+	height: 4px;
+	stroke: white;
+
+}
+.container1{
+	background: red;
+
+}
+.container1 h1{
+	color: white;
+	font-size: 20px;
+}
